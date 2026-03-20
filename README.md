@@ -22,8 +22,10 @@
 | Val Accuracy | 79.9% |
 
 ---
+![Con-Mat](images/Confusion_Matrix.png)
 ![Grad-CAM](images/fundus_gradcam.png)
 ![Training](images/fundus_training.png)
+
 ---
 🔗 [Kaggle Notebook](https://www.kaggle.com/code/michelle0417/fundus-diabetic-retinopathy-classification)
 
