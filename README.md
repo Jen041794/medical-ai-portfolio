@@ -21,6 +21,10 @@
 | Best AUC (OvR) | 0.9346 |
 | Val Accuracy | 79.9% |
 
+---
+![Grad-CAM](images/fundus_gradcam.png)
+![Training](images/fundus_training.png)
+---
 🔗 [Kaggle Notebook](https://www.kaggle.com/code/michelle0417/fundus-diabetic-retinopathy-classification)
 
 ---
@@ -41,6 +45,9 @@
 |--------|-------|
 | Best Dice Score | 0.8099 |
 
+---
+![Segmentation](images/cardiac_segmentation.png)
+---
 🔗 [Kaggle Notebook](https://www.kaggle.com/code/michelle0417/ct-x-ray-organ-segmentation-heart)
 
 ---
@@ -58,6 +65,10 @@
 4. 正規化到 0–255
 5. CLAHE 對比增強
 6. 縮放到固定尺寸（512×512）
+
+---
+![Pipeline](images/dicom_pipeline.png)
+---
 
 🔗 [Kaggle Notebook](https://www.kaggle.com/code/michelle0417/dicom-preprocessing-pipeline)
 
