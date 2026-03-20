@@ -3,6 +3,8 @@
 以下三個專案為應徵醫療 AI 工程師職缺所製作，涵蓋影像分類、器官分割、DICOM 前處理三大核心能力。
 
 ---
+開發方式：以 Claude AI 為協作工具，進行程式碼除錯、架構規劃與技術選型， 所有程式碼經本人理解、執行與驗證。
+---
 
 ## 1. Fundus Diabetic Retinopathy Classification
 
